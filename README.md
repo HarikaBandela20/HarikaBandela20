@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikabandela20&label=Profile%20views&color=0e75b6&style=flat" alt="harikabandela20" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **Java, Python, JavaScript, React JS, Bootstrap, Node.Js, mongodb, AWS, git**
 
 - 📫 How to reach me **harikabandela@gmail.com**
