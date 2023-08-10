@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, React JS, Bootstrap, Node.Js, mongodb, AWS, git**
 
-- 📫 How to reach me **harikabandela@gmail.com**
+- 📫 How to reach me **harikabandela2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
