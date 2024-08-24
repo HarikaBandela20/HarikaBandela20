@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harika Bandela</h1>
+<h1 align="center">Hi 👋, I'm Harika </h1>
 <h3 align="center">"Software Engineer Enthusiast | Java Developer | Eager to code and Contribute to Complex Projects "</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikabandela20&label=Profile%20views&color=0e75b6&style=flat" alt="harikabandela20" /> </p>
